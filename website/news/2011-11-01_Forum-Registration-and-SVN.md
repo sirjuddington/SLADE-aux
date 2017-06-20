@@ -1,0 +1,1 @@
+Just a quick update to say that forum registration should be working again (you're no longer always under 13 years of age, heh). Also due to some problems it was causing, the mancubus.net websvn software has been disabled, so for now the only option for browsing the svn is browsing it directly [here](http://mancubus.net/svn/hosted/slade/trunk).
