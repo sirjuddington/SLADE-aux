@@ -1,0 +1,3 @@
+Whelp, A few days ago I managed to totally screw my hard drive partition table, which resulted in a total reformat, and attempted data recovery. Well, I recovered most of the SLADE source, but unfortunately not all of it (including the 3d mode and texture loading stuff :/).
+
+But never fear, I'm already half way through rewriting SLADE now, and I should have the next version out sometime next week. Rewriting it has had it's merits, too. Now the game configurations have a much nicer format, and also I've added support for custom ui skins ;) (not to mention the code is a whole bunch nicer this time around... so I'll probably do a source release for the next version too).

@@ -1,0 +1,1 @@
+Well it's been a few months, and now finally I am ready to release SLADE v1.0, now with GTK ;) Head on over to the downloads section to get it. If you have any problems with it, post over at the forum or contact me via IRC (#zdoom on irc.oftc.net). Anyway have fun and that ;)

@@ -1,0 +1,1 @@
+Well I think it's time for a release. It's pretty much at the same state as it was at v0.11, except with a few new features that I'm pretty sure are all discussed in previous news posts :P. Also, I've released the source code in case anyone's interested or wants to help me out. Head on to the download page to get it. Lastly, I've setup a forum for SLADE here.
