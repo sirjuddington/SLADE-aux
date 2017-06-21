@@ -1,0 +1,3 @@
+In addition to the website visual overhaul detailed last post, the [SLADE wiki](http://slade.mancubus.net/index.php?page=wiki) is now also available directly from the website, styled to match with the rest of the site. The wiki itself is still hosted on GitHub and must be edited there.
+
+In an upcoming release of SLADE the wiki will be available directly within the program (Help &rarr; Online Documentation), opened as a tab, as long as there is an active internet connection and wxWebView support is enabled (which is the default in Windows and OSX).
