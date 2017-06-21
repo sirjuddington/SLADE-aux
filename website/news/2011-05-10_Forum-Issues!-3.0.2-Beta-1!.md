@@ -4,13 +4,13 @@ In other news, nearly all the new features I wanted for 3.0.2 are now implemente
 
 What's new or changed? Well, this:
 
-- Texture editor now supports ZDoom's enhanced TEXTURES format
-- New 'Graphic' menu for gfx entries, with some basic gfx editing functions
-- Typing the first few characters of an item to jump to it in lists has been re-implemented
-- Added the ability to open entries in separate tabs
-- Dumped Audiere as the sound/midi library in windows, and swapped to SFML-audio. Upsides are much better/faster audio support and audio support in linux (and mac). Downsides are no mp3 or module format support (though I'll look into adding these back at a later date)
-- Fluidsynth is now used to preview MIDI in both windows and linux
-- Many other bugfixes and small improvements
+> - Texture editor now supports ZDoom's enhanced TEXTURES format
+> - New 'Graphic' menu for gfx entries, with some basic gfx editing functions
+> - Typing the first few characters of an item to jump to it in lists has been re-implemented
+> - Added the ability to open entries in separate tabs
+> - Dumped Audiere as the sound/midi library in windows, and swapped to SFML-audio. Upsides are much better/faster audio support and audio support in linux (and mac). Downsides are no mp3 or module format support (though I'll look into adding these back at a later date)
+> - Fluidsynth is now used to preview MIDI in both windows and linux
+> - Many other bugfixes and small improvements
 
 Before 3.0.2 final I still want to finish off some stuff with the TEXTURES editor, namely allowing textures to be used as patches, offsets previewing and copy+paste for textures. Hopefully proper lzma/bz2 compression support for zips will be done before then too. Once 3.0.2 final is done, I'll really get around to implementing the map editor, something I've been itching to do lately :P
 
