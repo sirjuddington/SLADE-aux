@@ -1,8 +1,8 @@
 stable
 {
-  version = 3, 2, 11;
-  bin = "http://slade.mancubus.net/files/3.2.11/slade_3.2.11.7z";
-  install = "http://slade.mancubus.net/files/3.2.11/Setup_SLADE_3.2.11.exe";
+  version = 3, 2, 12;
+  bin = "http://slade.mancubus.net/files/3.2.12/slade_3.2.12.7z";
+  install = "http://slade.mancubus.net/files/3.2.12/Setup_SLADE_3.2.12.exe";
 }
 
 beta
