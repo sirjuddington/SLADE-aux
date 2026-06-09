@@ -8,6 +8,6 @@ stable
 beta
 {
   version = 3, 3, 0;
-  beta = 1;
+  beta = 2;
   bin = "http://slade.mancubus.net/files/3.2.0_beta/slade_3.2.0_b4.7z";
 }
